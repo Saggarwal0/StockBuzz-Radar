@@ -23,7 +23,7 @@ This tool captures online sentiment not to predict markets,
 but to highlight how digital communities shape the perception of companies
 and influence public reactions.
 
-🌙 Academic-style Disclaimer
+🌙 Academic-style Disclaimer 
 
 StockBuzz Radar is an educational and exploratory project.
 It does not provide investment advice, forecast prices, or guarantee accuracy.
