@@ -51,4 +51,4 @@ and careful reasoning.
 This stack was intentionally selected to balance accessibility with real-world value
 for cloud, backend, and data engineering roles.
 
-<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/864ef79b-accc-4f54-92e2-e986b8c8ad49" /> </div>
+ </div>
