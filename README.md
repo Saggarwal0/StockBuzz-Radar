@@ -1,7 +1,10 @@
-🌸 StockBuzz Radar
 <div align="center">
 
-A sentiment-driven Reddit analysis tool for understanding online discourse around stock tickers
+  
+  🌸 StockBuzz Radar
+
+  
+  A sentiment-driven Reddit analysis tool for understanding online discourse around stock tickers
 
 <!-- Pastel Badges --> <img src="https://img.shields.io/badge/Python-3.10+-b5d7ff?style=for-the-badge&logo=python&logoColor=1a1a1a" /> <img src="https://img.shields.io/badge/Reddit_API-PRAW-cad4ff?style=for-the-badge&logo=reddit&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-VADER-dbcafc?style=for-the-badge&logo=google&logoColor=1a1a1a" /> <img src="https://img.shields.io/badge/dotenv-Environment_Vars-cff8f0?style=for-the-badge&logo=dotenv&logoColor=1a1a1a" /> <img src="https://img.shields.io/badge/Pandas-Optional-b3e5ff?style=for-the-badge&logo=pandas&logoColor=1a1a1a" /> <img src="https://img.shields.io/badge/Project_Type-Sentiment_Analysis-bac6ff?style=for-the-badge" />
 
