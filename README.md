@@ -22,7 +22,7 @@ I wanted to create something real, relevant, and meaningful—not just another t
 This tool captures online sentiment not to predict markets,
 but to highlight how digital communities shape the perception of companies
 and influence public reactions.
-
+       
 🌙 Academic-style Disclaimer 
 
 StockBuzz Radar is an educational and exploratory project.
