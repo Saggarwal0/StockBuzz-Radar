@@ -8,7 +8,7 @@
 
 <!-- Pastel Badges --> <img src="https://img.shields.io/badge/Python-3.10+-b5d7ff?style=for-the-badge&logo=python&logoColor=1a1a1a" /> <img src="https://img.shields.io/badge/Reddit_API-PRAW-cad4ff?style=for-the-badge&logo=reddit&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-VADER-dbcafc?style=for-the-badge&logo=google&logoColor=1a1a1a" /> <img src="https://img.shields.io/badge/dotenv-Environment_Vars-cff8f0?style=for-the-badge&logo=dotenv&logoColor=1a1a1a" /> <img src="https://img.shields.io/badge/Pandas-Optional-b3e5ff?style=for-the-badge&logo=pandas&logoColor=1a1a1a" /> <img src="https://img.shields.io/badge/Project_Type-Sentiment_Analysis-bac6ff?style=for-the-badge" />
 
-<br><br>
+<br><br>                    
                
 StockBuzz Radar is a Python-based project that examines how people on Reddit talk about specific stocks.
 By collecting recent posts that mention a chosen ticker and running sentiment analysis on the text,
