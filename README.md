@@ -25,7 +25,7 @@ and influence public reactions.
                 
 🌙 Academic-style Disclaimer 
 
-StockBuzz Radar is an educational and exploratory project.
+StockBuzz Radar is an educational and exploratory project.    
 It does not provide investment advice, forecast prices, or guarantee accuracy.
 All analysis is based solely on publicly available online discussions.
 
