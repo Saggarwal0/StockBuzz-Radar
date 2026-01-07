@@ -35,7 +35,7 @@ Many freshman composition courses emphasize how language reflects emotion, cultu
 I wanted to bring that same lens into a technical space. Reddit, with its dramatic mix of analysis,
 sarcasm, enthusiasm, and skepticism, provides a perfect environment for studying how people express
 attitudes toward financial topics.
-
+     
 <br>
 ⭐ Skills Strengthened
 <p>API authentication and data retrieval</p> <p>Text processing and sentiment scoring</p> <p>Python module organization</p> <p>Data aggregation and reporting</p> <p>Responsible interpretation of unstructured online discourse</p> <br>
