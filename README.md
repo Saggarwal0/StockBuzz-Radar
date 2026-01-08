@@ -13,7 +13,7 @@
 StockBuzz Radar is a Python-based project that examines how people on Reddit talk about specific stocks.
 By collecting recent posts that mention a chosen ticker and running sentiment analysis on the text,    
 the tool produces a clear snapshot of the online emotional climate surrounding that stock.
-
+     
 The purpose of this project is both technical and reflective: it combines API integration,
 natural language processing, and data interpretation in a way that feels analytical but still approachable.
 As a student developing foundational skills in programming and cloud technologies,
