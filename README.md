@@ -16,7 +16,7 @@ the tool produces a clear snapshot of the online emotional climate surrounding t
      
 The purpose of this project is both technical and reflective: it combines API integration,
 natural language processing, and data interpretation in a way that feels analytical but still approachable.           
-As a student developing foundational skills in programming and cloud technologies,
+As a student developing foundational skills in programming and cloud technologies,                       
 I wanted to create something real, relevant, and meaningful—not just another tutorial script.
 
 This tool captures online sentiment not to predict markets,
